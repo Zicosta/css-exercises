@@ -1,0 +1,17 @@
+.clik {
+  background-color: rgb(0, 0, 0);
+  color: #fff;
+}
+
+.noclik {
+  background-color: rgb(255, 255, 0);
+}
+
+.clik,
+.noclik {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  border: rgb(34, 16, 122);
+  border: 4px;
+  border-style: outset;
+}

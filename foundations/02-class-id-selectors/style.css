@@ -1,0 +1,19 @@
+.item,
+.size {
+  background-color: rgb(244, 167, 167);
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#two {
+  color: rgb(4, 4, 206);
+  font-size: 36px;
+}
+
+.size {
+  font-size: 24px;
+}
+
+#four {
+  background-color: rgb(126, 232, 126);
+  font-size: 24px;
+  font-weight: bold;
+}
